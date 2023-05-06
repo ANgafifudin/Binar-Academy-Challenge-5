@@ -1,12 +1,12 @@
-#CAR MANAGEMENT API
+# CAR MANAGEMENT API
 
-##superadmin
+## superadmin
 {
     "email": "aji@gmail.com"
     "password": "Aji"
 }
 
-##endpoint untuk menjalankan superadmin
+## endpoint untuk menjalankan superadmin
 - GET localhost:3000/v1/api/login
 
 lebih lengkapnya, terdapat dokumentasi postman berikut:
